@@ -1,0 +1,11 @@
+#Program without using a function
+print("Apple")
+print("Mango")
+print("Grapes")
+print("Orange")
+print("Banana")
+print("Apple")
+print("Mango")
+print("Grapes")
+print("Orange")
+print("Banana")
